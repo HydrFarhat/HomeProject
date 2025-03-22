@@ -1,0 +1,25 @@
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .search-box {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    font-size: 16px;
+  }
+  
+  .results {
+    text-align: left;
+  }
+  
+  .article {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+  }
+  
+  mark {
+    background-color: yellow;
+  }
